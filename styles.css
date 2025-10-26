@@ -32,7 +32,7 @@ h1 {
 h2 {
     font-weight: normal;
     font-size: 20px;
-    margin-top: 5px; /* reduz o espaço entre nome e subtítulo */
+    margin-top: 0px;
     margin-bottom: 0;
     margin-left: 0;
 }
